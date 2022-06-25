@@ -1,0 +1,24 @@
+.card {
+    margin: 1em auto;
+    width: 450px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(237, 195, 144);
+    border-radius: 10px;
+}
+.left {
+    width: 30%;
+    padding: 15px;
+}
+.right {
+    width: 70%;
+}
+img {
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
